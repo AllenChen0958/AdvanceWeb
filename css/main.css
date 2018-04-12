@@ -1,0 +1,47 @@
+/*.navbar-default {
+    background-color: #000000;
+}*/
+
+#brand-img {
+    height: 2rem;
+    weight: auto;
+}
+.main-navbar {
+    background-color: rgba(0,0,0,0.8);
+}
+
+/*#navbar_container::before{ 
+    content: "";
+    display: block;
+
+}*/
+
+#container-navbar{
+    margin: 1.5rem 1rem;
+}
+
+
+.class-icon > li{
+    margin-left: 1rem;
+    margin-top: 0.3rem;
+}
+
+
+
+#id-new-videos {
+    display: block;
+    margin-top: 6rem;
+    color:#c7c5c8;
+    font-style: normal;
+}
+.photo {
+    position: relative;
+    margin: 0 auto;
+    display: table;
+}
+.class-photo-label {
+    position: absolute;
+    bottom: 3px;
+    right: 0px;
+}
+

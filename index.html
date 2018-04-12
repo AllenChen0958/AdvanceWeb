@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>voicetube</title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/main.css" >
+    <!-- font awesome -->
+    <!-- <script defer src="https://use.fontawesome.com/releases/v5.0.9/js/all.js" integrity="sha384-8iPTk2s/jMVj81dnzb/iFR2sdA7u06vHJyyLlAd4snFpCl/SnyUjRrbdJsw1pGIl" crossorigin="anonymous"></script> -->
+
+    <link href="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.no-icons.min.css" rel="stylesheet">
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+</head>
+<body>
+    <div class="container-fluid">
+        
+        <nav class="navbar navbar-inverse navbar-fixed-top main-navbar">
+            <div class="container-fluid" id="container-navbar">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                  </button>
+
+                    <!-- logo of voicetube on the navigation bar -->
+                    <a class="navbar-brand-test" href="#">
+                        <img id="brand-img" alt="Brand" src="https://cdn.voicetube.com/assets/img/vt_logo-with_icon-170111-white.png">
+                    </a>
+                    
+
+                </div>
+                <div class="collapse navbar-collapse container-fluid" id="bs-example-navbar-collapse-1">
+                  <ul class="nav nav-pull" nav-pull>
+                    <!-- <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li> -->
+                    <!-- <li><a href="#">Link</a></li> -->
+                    <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">精選頻道 <span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="#">中英文雙字幕影片</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">深度英文演講</a></li>
+                        <li><a href="#">知識型動化</a></li>
+                        <li role="separator" class="divider"></li>
+                        <li><a href="#">看BBC學英文</a></li>
+                      </ul>
+                    </li>
+
+                    <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">程度分級 <span class="caret"></span></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="#">初級：TOEIC 250-545</a></li>
+                        <li><a href="#">中級：TOEIC 550-780</a></li>
+                        <li><a href="#">高級：TOEIC 780-990</a></li>
+                      </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">聽力與口說 <span class="caret"></span></a>
+                    </li>
+
+                  </ul>
+                  <!-- form class="navbar-form navbar-left">
+                    <div class="form-group">
+                      <input type="text" class="form-control" placeholder="Search">
+                    </div>
+                    <button type="submit" class="btn btn-default">Submit</button>
+                  </form> -->
+                  <ul class="nav navbar-nav navbar-right class-icon">
+                    <li>
+                        <i class="icon-user icon-light icon-2x"></i>  
+                    </li>
+                    <li>
+                        <i class="icon-flag icon-light icon-2x"></i>
+                    </li>
+                    <li>
+                        <i class="icon-envelope icon-light icon-2x"></i>
+                    </li>
+                    <li>
+                        <i class="icon-check icon-light icon-2x"></i>
+                    </li>
+                    <li>
+                        <img class="ico_user" src="https://graph.facebook.com/2103565943210499/picture?width=22&height=22">
+                    </li>
+                  </ul>
+                </div><!-- /.navbar-collapse -->
+            </div>
+        </nav>
+        <div class="container-fluid" id="div-video">
+            <h1 id="id-new-videos">
+                NEW VIDEOS
+            </h1>
+            <!-- <div class="row">
+              <div class="col-sm-3 col-md-2">
+                <div class="thumbnail">
+                  <img src="https://i.ytimg.com/vi/PXi3Mv6KMzY/hqdefault.jpg">
+                  <div class="caption">
+                    <h5 class="index-thumbnail-title">Name of title</h5>
+                    <p><a href="#" class="btn btn-primary" role="button">Button</a> <a href="#" class="btn btn-default" role="button">Button</a></p>
+                  </div>
+                </div>
+              </div>
+            </div> -->
+
+            <!-- video: https://www.youtube.com/watch?v=10r9ozshGVE -->
+            <ul class="thumbnails">
+                <li class="span2">
+                    <div class="thumbnail" data-video-id="111111">
+                        <div class="photo" video-id="111111">
+                            <img src="https://i.ytimg.com/vi/PXi3Mv6KMzY/hqdefault.jpg">   
+                            <span class="label label-inverse class-photo-label">
+                                <span class="class-video-time">02:06</span>
+                            </span>        
+                        </div>
+                        <div class="caption">
+                            <h5 class="index-thumbnail-title" rel="tooltip" data-original-title="Kung Fu Panda 3 | Official Trailer #1">
+                                Kung Fu Panda 3 | Official Trailer #1
+                            </h5>
+                            <div class="pull-left-test">
+                                <div>
+                                    <i class="icon-headphones">125</i>
+                                </div>
+                            </div>
+                            <div class="thumbnail-tags">
+                                <span class="label" rel="tooltip" data-original-title="有中文字幕">中文</span>
+                                <span class="label label-warning" rel="tooltip" data-original-title="美國腔">美國腔</span>
+                            </div>
+                        </div>
+                       
+
+                    </div>
+                </li>
+                <li class="span2">
+                    <div class="thumbnail" data-video-id="111111">
+                        <div class="photo" video-id="111111">
+                            <img src="https://i.ytimg.com/vi/PXi3Mv6KMzY/hqdefault.jpg">   
+                            <span class="label label-inverse class-photo-label">
+                                <span class="class-video-time">02:06</span>
+                            </span>        
+                        </div>
+                        <div class="caption">
+                            <h5 class="index-thumbnail-title" rel="tooltip" data-original-title="Kung Fu Panda 3 | Official Trailer #1">
+                                Kung Fu Panda 3 | Official Trailer #1
+                            </h5>
+                            <div class="pull-left-test">
+                                <div>
+                                    <i class="icon-headphones">125</i>
+                                </div>
+                            </div>
+                            <div class="thumbnail-tags">
+                                <span class="label" rel="tooltip" data-original-title="有中文字幕">中文</span>
+                                <span class="label label-warning" rel="tooltip" data-original-title="美國腔">美國腔</span>
+                            </div>
+                        </div>
+                       
+
+                    </div>
+                </li>
+                <li class="span2">
+                    <div class="thumbnail" data-video-id="111111">
+                        <div class="photo" video-id="111111">
+                            <img src="https://i.ytimg.com/vi/PXi3Mv6KMzY/hqdefault.jpg">   
+                            <span class="label label-inverse class-photo-label">
+                                <span class="class-video-time">02:06</span>
+                            </span>        
+                        </div>
+                        <div class="caption">
+                            <h5 class="index-thumbnail-title" rel="tooltip" data-original-title="Kung Fu Panda 3 | Official Trailer #1">
+                                Kung Fu Panda 3 | Official Trailer #1
+                            </h5>
+                            <div class="pull-left-test">
+                                <div>
+                                    <i class="icon-headphones">125</i>
+                                </div>
+                            </div>
+                            <div class="thumbnail-tags">
+                                <span class="label" rel="tooltip" data-original-title="有中文字幕">中文</span>
+                                <span class="label label-warning" rel="tooltip" data-original-title="美國腔">美國腔</span>
+                            </div>
+                        </div>
+                       
+
+                    </div>
+                </li>
+            </ul>
+
+
+        </div>
+    </div>
+    <!-- bootstap 3  -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+</body>
+</html>
