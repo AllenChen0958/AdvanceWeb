@@ -1,0 +1,26 @@
+<style>
+
+
+.list {
+
+}
+
+#caption_detail {
+    height: 312px;
+    width:40% ;
+    background-color: #e6e6e6;
+    margin-top: 5px;
+    padding: 0 5px;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    box-shadow: 0 1px 2px rgba(0,0,0,.05);
+    line-height: 30px;
+    position: relative;    
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+
+
+</style>
