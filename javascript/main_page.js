@@ -189,8 +189,8 @@ for(var i=0 ; i<global_videos.length ; i++) {
     var info_block = document.createElement("div");
     info_block.classList.add("caption");
 
-    var a = document.createElement("a");
-    a.href="video_page.html?id=" + String(global_videos[i]["id"]);
+    var a1 = document.createElement("a");
+    a1.href="video_page.html?id=" + String(global_videos[i]["id"]);
 
     var h5 = document.createElement("h5");
     h5.innerHTML = global_videos[i]["title"];
@@ -210,13 +210,13 @@ for(var i=0 ; i<global_videos.length ; i++) {
     span_ch.innerHTML="中文";
 
 
-    a.appendChild(h5);
+    a1.appendChild(h5);
     icon_div.appendChild(icon);
 
     lang_label_block.appendChild(span_ch);
     lang_label_block.appendChild(span_en);
 
-    info_block.appendChild(a);
+    info_block.appendChild(a1);
     info_block.appendChild(icon_div);
     info_block.appendChild(lang_label_block);
 
