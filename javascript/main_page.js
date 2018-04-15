@@ -190,7 +190,7 @@ for(var i=0 ; i<global_videos.length ; i++) {
     info_block.classList.add("caption");
 
     var a = document.createElement("a");
-    a.herf="video_page.html?id=" + String(global_videos[i]["id"]);
+    a.href="video_page.html?id=" + String(global_videos[i]["id"]);
 
     var h5 = document.createElement("h5");
     h5.innerHTML = global_videos[i]["title"];
