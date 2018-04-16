@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<body>
+<p t="5880" d="4338">The entire time I knew him, he only ever had one goal</p>
+<p t="13930" d="2002">To wipe out half the universe</p>
+<p t="17183" d="4296">If he gets all the Infinity stones he can do it with the snap of his fingers</p>
+<p t="22856" d="1334">Just like that</p>
+<p t="25660" d="590">- Tell me his name again</p>
+<p t="27680" d="6000">- Thanos</p>
+<p t="36411" d="4399">We got one advantage: he&#39;s coming to us</p>
+<p t="42709" d="3253">We have what Thanos wants, so that&#39;s what we use</p>
+<p t="54120" d="4450">Let&#39;s talk about this plan of yours, I think it&#39;s good except it sucks</p>
+<p t="58570" d="2824">So let me do the plan and that way it might be really good</p>
+<p t="62228" d="1392">Wow</p>
+<p t="70945" d="2002">The end is near</p>
+<p t="77994" d="5923">When I&#39;m done, half of humanity will still exist</p>
+<p t="92342" d="4921">Perfectly balanced as all things should be</p>
+<p t="101809" d="2002">I hope they remember you</p>
+<p t="122247" d="2335">I&#39;m Peter by the way</p>
+<p t="124582" d="834">- Dr. Strange.</p>
+<p t="125416" d="3170">Oh we&#39;re using our made-up names, then I am Spider-Man</p>
+<p t="141557" d="668">So, this is it.</p>
+<p t="143434" d="1168">It&#39;s all been leading to this.</p>
+<p t="151693" d="542">Ready?</p>
+<p t="153690" d="6000">Let&#39;s go.</p>
+<p t="173890" d="575">There was an idea...</p>
+<p t="177635" d="2878">...to bring together a group of remarkable people...</p>
+<p t="183570" d="2620">...to see if we could become something more.</p>
+<p t="189147" d="3962">So when they needed us, we could fight the battles...</p>
+<p t="196487" d="1001">...that they never could.</p>
+<p t="215757" d="3211">In time you&#39;ll know what it&#39;s like to lose.</p>
+<p t="220553" d="4755">To feel so desperately that you&#39;re right, yet to fail all the same.</p>
+<p t="230938" d="501">Dread it.</p>
+<p t="233983" d="709">Run from it.</p>
+<p t="236152" d="1293">Destiny still arrives.(CC4K)</p>
+<p t="246454" d="1293">Evacuate the city.</p>
+<p t="249373" d="1502">Engage all defenses.</p>
+<p t="252418" d="1710">And get this man a shield.</p>
+<p t="267225" d="2965">Fun isn&#39;t something one considers when balancing the universe.</p>
+<p t="274148" d="793">But this...</p>
+<p t="276317" d="1877">Does put a smile on my face.</p>
+<p t="305471" d="1043">Who the hell are you guys?</p>
+</body>
+</timedtext>

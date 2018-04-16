@@ -1431,4 +1431,208 @@ var global_videos = [
 		    }
 		]
 	},
+	{
+		"id": 9,
+		"ytVideoId": "6gt9kR9IyL4",
+		"title": "Avengers: Infinity War (2018) Official Trailer 3-1 [HD] ",
+		"duration":"05:023",
+		"views":"200",
+		"subtitle":[
+		    {
+		        "start": "5.88",
+		        "end": "10.218",
+		        "text": "The entire time I knew him, he only ever had one goal"
+		    },
+		    {
+		        "start": "13.93",
+		        "end": "15.932",
+		        "text": "To wipe out half the universe"
+		    },
+		    {
+		        "start": "17.183",
+		        "end": "21.479",
+		        "text": "If he gets all the Infinity stones he can do it with the snap of his fingers"
+		    },
+		    {
+		        "start": "22.856",
+		        "end": "24.19",
+		        "text": "Just like that"
+		    },
+		    {
+		        "start": "25.66",
+		        "end": "26.25",
+		        "text": "- Tell me his name again"
+		    },
+		    {
+		        "start": "27.68",
+		        "end": "33.68",
+		        "text": "- Thanos"
+		    },
+		    {
+		        "start": "36.411",
+		        "end": "40.81",
+		        "text": "We got one advantage: he&#39;s coming to us"
+		    },
+		    {
+		        "start": "42.709",
+		        "end": "45.962",
+		        "text": "We have what Thanos wants, so that&#39;s what we use"
+		    },
+		    {
+		        "start": "54.12",
+		        "end": "58.57",
+		        "text": "Let&#39;s talk about this plan of yours, I think it&#39;s good except it sucks"
+		    },
+		    {
+		        "start": "58.57",
+		        "end": "61.394",
+		        "text": "So let me do the plan and that way it might be really good"
+		    },
+		    {
+		        "start": "62.228",
+		        "end": "63.62",
+		        "text": "Wow"
+		    },
+		    {
+		        "start": "70.945",
+		        "end": "72.947",
+		        "text": "The end is near"
+		    },
+		    {
+		        "start": "77.994",
+		        "end": "83.917",
+		        "text": "When I&#39;m done, half of humanity will still exist"
+		    },
+		    {
+		        "start": "92.342",
+		        "end": "97.263",
+		        "text": "Perfectly balanced as all things should be"
+		    },
+		    {
+		        "start": "101.809",
+		        "end": "103.811",
+		        "text": "I hope they remember you"
+		    },
+		    {
+		        "start": "122.247",
+		        "end": "124.582",
+		        "text": "I&#39;m Peter by the way"
+		    },
+		    {
+		        "start": "124.582",
+		        "end": "125.416",
+		        "text": "- Dr. Strange."
+		    },
+		    {
+		        "start": "125.416",
+		        "end": "128.586",
+		        "text": "Oh we&#39;re using our made-up names, then I am Spider-Man"
+		    },
+		    {
+		        "start": "141.557",
+		        "end": "142.225",
+		        "text": "So, this is it."
+		    },
+		    {
+		        "start": "143.434",
+		        "end": "144.602",
+		        "text": "It&#39;s all been leading to this."
+		    },
+		    {
+		        "start": "151.693",
+		        "end": "152.235",
+		        "text": "Ready?"
+		    },
+		    {
+		        "start": "153.69",
+		        "end": "159.69",
+		        "text": "Let&#39;s go."
+		    },
+		    {
+		        "start": "173.89",
+		        "end": "174.465",
+		        "text": "There was an idea..."
+		    },
+		    {
+		        "start": "177.635",
+		        "end": "180.513",
+		        "text": "...to bring together a group of remarkable people..."
+		    },
+		    {
+		        "start": "183.57",
+		        "end": "186.19",
+		        "text": "...to see if we could become something more."
+		    },
+		    {
+		        "start": "189.147",
+		        "end": "193.109",
+		        "text": "So when they needed us, we could fight the battles..."
+		    },
+		    {
+		        "start": "196.487",
+		        "end": "197.488",
+		        "text": "...that they never could."
+		    },
+		    {
+		        "start": "215.757",
+		        "end": "218.968",
+		        "text": "In time you&#39;ll know what it&#39;s like to lose."
+		    },
+		    {
+		        "start": "220.553",
+		        "end": "225.308",
+		        "text": "To feel so desperately that you&#39;re right, yet to fail all the same."
+		    },
+		    {
+		        "start": "230.938",
+		        "end": "231.439",
+		        "text": "Dread it."
+		    },
+		    {
+		        "start": "233.983",
+		        "end": "234.692",
+		        "text": "Run from it."
+		    },
+		    {
+		        "start": "236.152",
+		        "end": "237.445",
+		        "text": "Destiny still arrives.(CC4K)"
+		    },
+		    {
+		        "start": "246.454",
+		        "end": "247.747",
+		        "text": "Evacuate the city."
+		    },
+		    {
+		        "start": "249.373",
+		        "end": "250.875",
+		        "text": "Engage all defenses."
+		    },
+		    {
+		        "start": "252.418",
+		        "end": "254.128",
+		        "text": "And get this man a shield."
+		    },
+		    {
+		        "start": "267.225",
+		        "end": "270.19",
+		        "text": "Fun isn&#39;t something one considers when balancing the universe."
+		    },
+		    {
+		        "start": "274.148",
+		        "end": "274.941",
+		        "text": "But this..."
+		    },
+		    {
+		        "start": "276.317",
+		        "end": "278.194",
+		        "text": "Does put a smile on my face."
+		    },
+		    {
+		        "start": "305.471",
+		        "end": "306.514",
+		        "text": "Who the hell are you guys?"
+		    }
+		]
+	},
 ];
