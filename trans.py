@@ -4,7 +4,7 @@ def main():
     with open(sys.argv[1], 'r') as f:
         sub=f.read();
     sarr=sub.split("\n");
-    
+    # print(sarr)
     output = []
     for content in sarr:
         try:

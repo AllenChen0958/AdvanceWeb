@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<body>
+<p t="0" d="12596">Subtitledtrailers.com</p>
+<p t="32156" d="1146">Papa?</p>
+<p t="33552" d="3068">Belle, you must leave here.
+This castle is alive.</p>
+<p t="38177" d="2196">- Who&#39;s there?
+- You wish to take your father&#39;s place?</p>
+<p t="40944" d="1150">Come into the light.</p>
+<p t="49340" d="1002">Show me the girl.</p>
+<p t="51926" d="2169">Look at her!
+What if she is the one?</p>
+<p t="54856" d="2124">The one who&#39;d break the spell!</p>
+<p t="59183" d="1419">- Hello!
+- You can talk?!</p>
+<p t="60852" d="1585">Belle, of course he can talk!</p>
+<p t="63012" d="1344">Hello, please to meet you!</p>
+<p t="66376" d="3068">The master
+is not as terrible as he appears.</p>
+<p t="79103" d="1602">I say we kill the beast!</p>
+<p t="83137" d="2467">Think of the one thing
+you&#39;ve always wanted.</p>
+<p t="86753" d="3627">Now find it in your mind&#39;s eye
+and feel it in your heart.</p>
+<p t="95072" d="595">No!</p>
+<p t="97032" d="1066">Don&#39;t be afraid.</p>
+<p t="99807" d="1294">I&#39;m not afraid.</p>
+</body>
+</timedtext>
