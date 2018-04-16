@@ -869,7 +869,7 @@ var global_videos = [
 	{
 		"id": 5,
 		"ytVideoId": "MvqsnYUBBT0",
-		"title": "염력 念力 2018 電影預告",
+		"title": "염력 念力 2018 電影預告        ",
 		"duration":"01:20",
 		"views":"309",
 		"subtitle": [
@@ -1399,7 +1399,7 @@ var global_videos = [
 	{
 		"id": 9,
 		"ytVideoId": "6gt9kR9IyL4",
-		"title": "Avengers: Infinity War (2018) Official Trailer 3-1 [HD] ",
+		"title": "Avengers: Infinity War (2018) Official Trailer 3-1",
 		"duration":"05:023",
 		"views":"200",
 				"subtitle":[
