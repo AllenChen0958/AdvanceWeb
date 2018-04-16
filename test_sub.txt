@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<body>
+<p t="10280" d="1220">PO: Master Shifu?</p>
+<p t="13400" d="1460">Good time? Bad time?</p>
+<p t="15520" d="2280">SHIFU: Time is an illusion,</p>
+<p t="18000" d="2960">there is only the now.</p>
+<p t="20960" d="2440">PO: So now&#39;s a... good time?</p>
+<p t="23400" d="760">SHIFU: Oh...</p>
+<p t="25640" d="3880">SHIFU: You must take the next step on
+your journey from warrior to teacher</p>
+<p t="29600" d="920">PO: But I&#39;m no good at it</p>
+<p t="30700" d="3020">PO: Oh no! It&#39;s the dragon teacher! He&#39;s so handsome!</p>
+<p t="33720" d="1480">WA-TAIIII!</p>
+<p t="37940" d="860">MR. PING: Po?</p>
+<p t="38800" d="2300">PO: Oh heyy, Dad. What&#39;s up?</p>
+<p t="41420" d="960">SHIFU: You&#39;re terrible at it.</p>
+<p t="43620" d="1480">PO: Who... are you?</p>
+<p t="45520" d="1900">LI: I&#39;m looking for my son</p>
+<p t="48760" d="580">PO: Dad?</p>
+<p t="49440" d="1240">LI: Give your old man a hug!</p>
+<p t="53960" d="2040">MR. PING: How do we know he&#39;s even related to you?</p>
+<p t="56020" d="1120">LI: Look at that!</p>
+<p t="61440" d="1120">LI: Come with me.</p>
+<p t="62560" d="3120">There&#39;s a secret panda village in the mountains.</p>
+<p t="67080" d="800">PO: Whoa...</p>
+<p t="67940" d="1520">LI: Welcome home, son</p>
+<p t="70200" d="2560">PO: You look just like me, but a baby.</p>
+<p t="72760" d="1600">You&#39;re like me but old</p>
+<p t="74520" d="1700">GRANDMA PANDA: Ohh... He&#39;s adorable!</p>
+<p t="77600" d="700">Ow!</p>
+<p t="79700" d="1060">I&#39;m good!</p>
+<p t="82540" d="2000">KAI: Kai has returned!</p>
+<p t="84900" d="500">Who?</p>
+<p t="85540" d="2060">KAI: The Master of Pain. Beast of Vengeance.</p>
+<p t="87600" d="1160">Maker of Widows...</p>
+<p t="88760" d="500">Eh?</p>
+<p t="89260" d="1780">KAI: Okay, I used to work with Oogway...</p>
+<p t="91040" d="1740">Oh! Master Oogway!</p>
+<p t="92800" d="1200">KAI: Silence!</p>
+<p t="94000" d="2160">TIGRESS: Kai attacked the valley.</p>
+<p t="96160" d="920">It&#39;s all gone.</p>
+<p t="97440" d="1760">Now he&#39;s coming for the pandas.</p>
+<p t="99640" d="2080">You must teach them to fight.</p>
+<p t="102320" d="1520">PO: I am ready.</p>
+<p t="104720" d="1740">I&#39;m gonna turn you into kung fu masters</p>
+<p t="106740" d="780">HAI!</p>
+<p t="111480" d="1880">Nobody said this was gonna be easy.</p>
+<p t="113800" d="1220">MEI MEI: Get ready to dance...</p>
+<p t="115120" d="1240">...with danger!</p>
+<p t="118360" d="1600">PO: Enemies of justice. Prepare for...</p>
+<p t="119960" d="2120">Whoa! Are you kidding me?</p>
+<p t="122440" d="2200">Whoa! Ah! Ow!</p>
+<p t="125800" d="2200">KAI: You must be the dragon warrior.</p>
+<p t="128000" d="2120">PO: How bout you spare me the chit chat?</p>
+<p t="130120" d="1000">KAI: I&#39;m going to take your...</p>
+<p t="131120" d="1260">PO: Ugh. Chit chat!</p>
+<p t="132380" d="500">KAI: In the-</p>
+<p t="132880" d="940">PO: Chitt chitty chat chat.</p>
+<p t="133880" d="500">KAI: In...</p>
+<p t="134460" d="960">PO: Chat chat chat.</p>
+<p t="136060" d="500">KAI: In the-</p>
+<p t="136660" d="500">PO: Chit chat.</p>
+<p t="137920" d="1280">PO: Yee haw!</p>
+<p t="140320" d="1060">MANTIS: Got to get in there.</p>
+<p t="141400" d="560">CRANE: But Master Shifu said...</p>
+<p t="142020" d="1240">MANTIS: You&#39;re seriously afraid?</p>
+<p t="143340" d="2720">Even Master Chicken&#39;s going in there, and he&#39;s a chicken.</p>
+<p t="146200" d="1500">MASTER CHICKEN: Bock-bock bocka!</p>
+</body>
+</timedtext>

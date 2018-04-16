@@ -163,7 +163,8 @@ for(var i=0 ; i<global_videos.length ; i++) {
 
     var a = document.createElement("a");
     // a.href= "video_page.html?id=" + String(global_videos[i]["id"]);
-    a.href= "video_page.html?id=" + String(i);
+    a1.href="video_page.html?id=" + String(i);
+    console.log(i);
 
     var img=document.createElement("img");
     img.src = "https://i.ytimg.com/vi/" + String(global_videos[i]["ytVideoId"]) + "/hqdefault.jpg";
@@ -192,7 +193,7 @@ for(var i=0 ; i<global_videos.length ; i++) {
 
     var a1 = document.createElement("a");
     // a1.href="video_page.html?id=" + String(global_videos[i]["id"]);
-    a1.href= "video_page.html?id=" + String(i);
+    a1.href="video_page.html?id=" + String(i);
 
     var h5 = document.createElement("h5");
     h5.innerHTML = global_videos[i]["title"];

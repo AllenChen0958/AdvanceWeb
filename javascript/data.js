@@ -865,5 +865,506 @@ var global_videos = [
 			"text": "8月18日將在日本全國上映"
 		  }
 		]
-	}
+	},
+	{
+		"id": 5,
+		"ytVideoId": "MvqsnYUBBT0",
+		"title": "염력 念力 2018 電影預告",
+		"duration":"01:20",
+		"views":"309",
+		"subtitle": [
+		  {
+			"start": 5.92,
+			"end": 6.84,
+			"text": "某天"
+		  },
+		  {
+			"start": 10.72,
+			"end": 11.67,
+			"text": "突然"
+		  },
+		  {
+			"start": 19.98,
+			"end": 21.31,
+			"text": "我會念力"
+		  },
+		  {
+			"start": 21.451,
+			"end": 23.748,
+			"text": "炸雞收掉 我幫妳安排別的"
+		  },
+		  {
+			"start": 24.148,
+			"end": 26.217,
+			"text": "去上大學好好讀書"
+		  },
+		  {
+			"start": 26.22,
+			"end": 27.92,
+			"text": "老爸現在有辦法"
+		  },
+		  {
+			"start": 30.605,
+			"end": 31.782,
+			"text": "這哪招？"
+		  },
+		  {
+			"start": 38.285,
+			"end": 41.154,
+			"text": "再也不用擔心羅美爸爸"
+		  },
+		  {
+			"start": 41.22,
+			"end": 42.4,
+			"text": "那當然"
+		  },
+		  {
+			"start": 43.771,
+			"end": 45.017,
+			"text": "超能大叔"
+		  },
+		  {
+			"start": 45.52,
+			"end": 48,
+			"text": "真的會控制念力？"
+		  },
+		  {
+			"start": 48.068,
+			"end": 50.777,
+			"text": "假鬼假怪騙人吧"
+		  },
+		  {
+			"start": 51.4,
+			"end": 52.194,
+			"text": "羅美"
+		  },
+		  {
+			"start": 57.3,
+			"end": 58.18,
+			"text": "震驚世界"
+		  },
+		  {
+			"start": 59.6,
+			"end": 60.47,
+			"text": "啟動他的念力"
+		  },
+		  {
+			"start": 68.91,
+			"end": 70.65,
+			"text": "- 念力 -"
+		  },
+		  {
+			"start": 74.194,
+			"end": 76.297,
+			"text": "我也要啦 大叔"
+		  }
+		]
+	},{
+		"id": 6,
+		"ytVideoId": "SrsuOW51vmM",
+		"title": "The Finest Hours 絕命救援 2016 電影預告",
+		"duration":"02:31",
+		"views":"201",
+		"subtitle": [
+		  {
+			"start": 7.42,
+			"end": 8.98,
+			"text": "米瑞恩一直蠻怕水的"
+		  },
+		  {
+			"start": 8.98,
+			"end": 11.38,
+			"text": "真不知道她怎麼會和海巡隊員約會"
+		  },
+		  {
+			"start": 11.38,
+			"end": 12.86,
+			"text": "我們在海上也是會怕水的"
+		  },
+		  {
+			"start": 12.86,
+			"end": 14.84,
+			"text": "我才不怕水！伯尼"
+		  },
+		  {
+			"start": 14.84,
+			"end": 17.44,
+			"text": "夜晚令我害怕，你無法知道什麼在暗湧"
+		  },
+		  {
+			"start": 17.88,
+			"end": 18.88,
+			"text": "更多的水囉"
+		  },
+		  {
+			"start": 21.86,
+			"end": 23.58,
+			"text": "查坦站，是否收到？"
+		  },
+		  {
+			"start": 25.62,
+			"end": 27.16,
+			"text": "我重發，危險狀態"
+		  },
+		  {
+			"start": 27.86,
+			"end": 29.62,
+			"text": "船身破損長五公尺半"
+		  },
+		  {
+			"start": 29.62,
+			"end": 31.28,
+			"text": "等待進一步指示，完畢！"
+		  },
+		  {
+			"start": 45.58,
+			"end": 48.9,
+			"text": "他們說這是襲擊東海岸最巨大的暴風"
+		  },
+		  {
+			"start": 48.9,
+			"end": 50.9,
+			"text": "強度在一小時內將形成颶風"
+		  },
+		  {
+			"start": 53.92,
+			"end": 56.96,
+			"text": "為何等著那麼久，妳才願意出來約會"
+		  },
+		  {
+			"start": 56.96,
+			"end": 59.32,
+			"text": "我不確定你是否被我電到"
+		  },
+		  {
+			"start": 59.32,
+			"end": 61.54,
+			"text": "妳完全清楚我是怎麼想著妳　-是嗎？"
+		  },
+		  {
+			"start": 61.68,
+			"end": 62.18,
+			"text": "是啦！"
+		  },
+		  {
+			"start": 68.62,
+			"end": 70.24,
+			"text": "無線電報什麼？船難？"
+		  },
+		  {
+			"start": 70.24,
+			"end": 72.84,
+			"text": "一艘 T2 型油船，斷成兩半"
+		  },
+		  {
+			"start": 73.2,
+			"end": 76.4,
+			"text": "也許我們能撐兩三個小時…然後沉入大海"
+		  },
+		  {
+			"start": 79.12,
+			"end": 82.32,
+			"text": "隊長，請組派救難隊　-你協助救援，聽到沒！"
+		  },
+		  {
+			"start": 82.46,
+			"end": 84.48,
+			"text": "救援正合我意，如今機會來了"
+		  },
+		  {
+			"start": 84.48,
+			"end": 87.16,
+			"text": "他搞不清楚狀況，簡直要你去送死！"
+		  },
+		  {
+			"start": 87.16,
+			"end": 89.16,
+			"text": "海巡隊有句話：勇往直前"
+		  },
+		  {
+			"start": 89.16,
+			"end": 90.68,
+			"text": "沒在講什麼平安歸來"
+		  },
+		  {
+			"start": 91.4,
+			"end": 93.88,
+			"text": "伯尼出勤救援任務？我非常擔心他"
+		  },
+		  {
+			"start": 94.62,
+			"end": 97.04,
+			"text": "任何女孩不會這麼做的　-又怎樣？"
+		  },
+		  {
+			"start": 97.42,
+			"end": 100.36,
+			"text": "這種天候沒人會去淺水域，根本是自殺任務"
+		  },
+		  {
+			"start": 100.82,
+			"end": 103.3,
+			"text": "拜託洗腦我，搭小船是為了換大船"
+		  },
+		  {
+			"start": 109.18,
+			"end": 110.6,
+			"text": "你不知道現場情況"
+		  },
+		  {
+			"start": 110.96,
+			"end": 113.26,
+			"text": "羅盤壞了！-請召回他們"
+		  },
+		  {
+			"start": 113.26,
+			"end": 114.52,
+			"text": "妳不能在這裡，小姐"
+		  },
+		  {
+			"start": 115.88,
+			"end": 117.36,
+			"text": "我已經全力搶救"
+		  },
+		  {
+			"start": 118.04,
+			"end": 119.52,
+			"text": "我們該結婚的"
+		  },
+		  {
+			"start": 120.06,
+			"end": 122.8,
+			"text": "他每次出海救援，妳都要來這裡抗議嗎？"
+		  },
+		  {
+			"start": 123.12,
+			"end": 124.6,
+			"text": "請…召回他們！"
+		  },
+		  {
+			"start": 125.58,
+			"end": 127.54,
+			"text": "只要我在現場，絕不放棄他們"
+		  },
+		  {
+			"start": 128.22,
+			"end": 129.86,
+			"text": "他已經銜命出發，趕走這女人！"
+		  },
+		  {
+			"start": 129.86,
+			"end": 131.12,
+			"text": "你正讓他們去送死"
+		  },
+		  {
+			"start": 132.18,
+			"end": 133.06,
+			"text": "撐住，各位！"
+		  },
+		  {
+			"start": 137.24,
+			"end": 138.04,
+			"text": "抓穩！"
+		  },
+		  {
+			"start": 142.18,
+			"end": 144.51,
+			"text": "《絕命救援》"
+		  },
+		  {
+			"start": 144.51,
+			"end": 147.27,
+			"text": "*美國海巡隊史，最大膽的救援任務*"
+		  }
+		]
+	},
+	{
+		"id": 7,
+		"ytVideoId": "kJQP7kiw5Fk",
+		"title": "Luis Fonsi - Despacito ft. Daddy Yankee",
+		"duration":"04:41",
+		"views":"399",
+		"subtitle":[
+		    {
+		        "start": "0.433",
+		        "end": "10.477",
+		        "text": "\u266a   \u266a"
+		    },
+		    {
+		        "start": "10.477",
+		        "end": "20.487",
+		        "text": "\u266a   \u266a"
+		    },
+		    {
+		        "start": "27.726",
+		        "end": "29.129",
+		        "text": "\u266a AAAAY \u266a"
+		    },
+		    {
+		        "start": "29.795",
+		        "end": "31.031",
+		        "text": "\u266a FONSI, \u266a"
+		    },
+		    {
+		        "start": "31.363",
+		        "end": "32.332",
+		        "text": "\u266a D.Y. \u266a"
+		    },
+		    {
+		        "start": "32.832",
+		        "end": "36.769",
+		        "text": "\u266a OHH OH NO OH NOOOO \u266a"
+		    },
+		    {
+		        "start": "36.802",
+		        "end": "39.706",
+		        "text": "\u266a EYY EYY EH \u266a"
+		    },
+		    {
+		        "start": "50.85",
+		        "end": "51.818",
+		        "text": "\u266a D.Y. \u266a"
+		    },
+		    {
+		        "start": "61.794",
+		        "end": "62.829",
+		        "text": "\u266a OHH \u266a"
+		    },
+		    {
+		        "start": "72.471",
+		        "end": "73.473",
+		        "text": "\u266a OHH YEAH \u266a"
+		    },
+		    {
+		        "start": "73.506",
+		        "end": "74.774",
+		        "text": "\u266a YA... \u266a"
+		    },
+		    {
+		        "start": "82.848",
+		        "end": "85.451",
+		        "text": "\u266a DESPACITO \u266a"
+		    },
+		    {
+		        "start": "94.193",
+		        "end": "96.262",
+		        "text": "\u266a DESPACITO \u266a"
+		    },
+		    {
+		        "start": "109.942",
+		        "end": "112.812",
+		        "text": "\u266a QUE LE ENSE\u00d1ES A MI BOCA \u266a"
+		    },
+		    {
+		        "start": "112.845",
+		        "end": "115.414",
+		        "text": "\u266a TUS LUGARES FAVORITOS \u266a"
+		    },
+		    {
+		        "start": "115.447",
+		        "end": "117.183",
+		        "text": "\u266a FAVORITO FAVORITO EY EEH \u266a"
+		    },
+		    {
+		        "start": "117.216",
+		        "end": "118.518",
+		        "text": "\u266a D\u00c9JAME SOBREPASAR \u266a"
+		    },
+		    {
+		        "start": "118.551",
+		        "end": "120.786",
+		        "text": "\u266a TU ZONAS DE PELIGRO \u266a"
+		    },
+		    {
+		        "start": "120.819",
+		        "end": "123.456",
+		        "text": "\u266a HASTA PROVOCAR TUS GRITOS \u266a"
+		    },
+		    {
+		        "start": "123.489",
+		        "end": "126.192",
+		        "text": "\u266a Y QUE OLVIDES TU APELLIDO \u266a"
+		    },
+		    {
+		        "start": "129.795",
+		        "end": "131.197",
+		        "text": "\u266a LLEVO TIEMPO INTENTANDOLO \u266a"
+		    },
+		    {
+		        "start": "171.303",
+		        "end": "172.939",
+		        "text": "\u266a DESPACITO \u266a"
+		    },
+		    {
+		        "start": "181.647",
+		        "end": "183.583",
+		        "text": "\u266a DESPECITO \u266a"
+		    },
+		    {
+		        "start": "202.968",
+		        "end": "204.57",
+		        "text": "\u266a FAVORITO FAVORITO \u266a"
+		    },
+		    {
+		        "start": "214.013",
+		        "end": "216.015",
+		        "text": "\u266a DESPACITO \u266a"
+		    },
+		    {
+		        "start": "246.478",
+		        "end": "248.915",
+		        "text": "\u266a DES...PA...CI...TO... \u266a"
+		    },
+		    {
+		        "start": "252.051",
+		        "end": "253.319",
+		        "text": "\u266a PASITO A PASITO \u266a"
+		    },
+		    {
+		        "start": "253.352",
+		        "end": "254.52",
+		        "text": "\u266a SUAVE, SUAVECITO \u266a"
+		    },
+		    {
+		        "start": "254.553",
+		        "end": "256.022",
+		        "text": "\u266a NOS VAMOS PEGANDO \u266a"
+		    },
+		    {
+		        "start": "256.055",
+		        "end": "257.39",
+		        "text": "\u266a POQUITO A POQUITO \u266a"
+		    },
+		    {
+		        "start": "257.423",
+		        "end": "262.928",
+		        "text": "\u266a (HEY, HEY, HEY, HEY) \u266a"
+		    },
+		    {
+		        "start": "262.961",
+		        "end": "264.297",
+		        "text": "\u266a PASITO A PASITO \u266a"
+		    },
+		    {
+		        "start": "264.33",
+		        "end": "265.498",
+		        "text": "\u266a SUAVE, SUAVECITO \u266a"
+		    },
+		    {
+		        "start": "265.531",
+		        "end": "266.732",
+		        "text": "\u266a NOS VAMOS PEGANDO \u266a"
+		    },
+		    {
+		        "start": "266.765",
+		        "end": "268.334",
+		        "text": "\u266a POQUITO A POQUITO \u266a"
+		    },
+		    {
+		        "start": "268.367",
+		        "end": "273.64",
+		        "text": "\u266a (HEY, HEY, HEY, HEY) \u266a"
+		    }
+		]
+	},
 ];
