@@ -869,7 +869,7 @@ var global_videos = [
 	{
 		"id": 5,
 		"ytVideoId": "MvqsnYUBBT0",
-		"title": "염력 念力 2018 電影預告        ",
+		"title": "염력 念力 2018 電影預告",
 		"duration":"01:20",
 		"views":"309",
 		"subtitle": [

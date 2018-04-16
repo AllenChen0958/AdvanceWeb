@@ -129,6 +129,9 @@ hr {
     background-color: #adadad; /* Modern Browsers */
 }
 
+.thumbnail{
+    min-height:10px !important;
+}
 /*#player {
     display: none;
 }*/
