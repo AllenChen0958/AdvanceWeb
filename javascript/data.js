@@ -1180,190 +1180,155 @@ var global_videos = [
 	},
 	{
 		"id": 7,
-		"ytVideoId": "kJQP7kiw5Fk",
-		"title": "Luis Fonsi - Despacito ft. Daddy Yankee",
-		"duration":"04:41",
-		"views":"399",
+		"ytVideoId": "Q0CbN8sfihY",
+		"title": "Star Wars: The Last Jedi Trailer (Official)",
+		"duration":"02:34",
+		"views":"309",
 		"subtitle":[
 		    {
-		        "start": "0.433",
-		        "end": "10.477",
-		        "text": "\u266a   \u266a"
+		        "start": 0.08,
+		        "end": 1.08,
+		        "text": " "
 		    },
 		    {
-		        "start": "10.477",
-		        "end": "20.487",
-		        "text": "\u266a   \u266a"
+		        "start": 3.84,
+		        "end": 5.36,
+		        "text": "When I found you"
 		    },
 		    {
-		        "start": "27.726",
-		        "end": "29.129",
-		        "text": "\u266a AAAAY \u266a"
+		        "start": 7.2,
+		        "end": 8.88,
+		        "text": "I saw raw"
 		    },
 		    {
-		        "start": "29.795",
-		        "end": "31.031",
-		        "text": "\u266a FONSI, \u266a"
+		        "start": 10.78,
+		        "end": 12.82,
+		        "text": "untamed power"
 		    },
 		    {
-		        "start": "31.363",
-		        "end": "32.332",
-		        "text": "\u266a D.Y. \u266a"
+		        "start": 14.46,
+		        "end": 16.36,
+		        "text": "and beyond that"
 		    },
 		    {
-		        "start": "32.832",
-		        "end": "36.769",
-		        "text": "\u266a OHH OH NO OH NOOOO \u266a"
+		        "start": 19.74,
+		        "end": 22.8,
+		        "text": "something truly special"
 		    },
 		    {
-		        "start": "36.802",
-		        "end": "39.706",
-		        "text": "\u266a EYY EYY EH \u266a"
+		        "start": 28.78,
+		        "end": 29.78,
+		        "text": " "
 		    },
 		    {
-		        "start": "50.85",
-		        "end": "51.818",
-		        "text": "\u266a D.Y. \u266a"
+		        "start": 32.94,
+		        "end": 34.1,
+		        "text": "something"
 		    },
 		    {
-		        "start": "61.794",
-		        "end": "62.829",
-		        "text": "\u266a OHH \u266a"
+		        "start": 36.04,
+		        "end": 37.94,
+		        "text": "inside me has always been there"
 		    },
 		    {
-		        "start": "72.471",
-		        "end": "73.473",
-		        "text": "\u266a OHH YEAH \u266a"
+		        "start": 41.04,
+		        "end": 42.34,
+		        "text": "then I was awake"
 		    },
 		    {
-		        "start": "73.506",
-		        "end": "74.774",
-		        "text": "\u266a YA... \u266a"
+		        "start": 43.96,
+		        "end": 45.3,
+		        "text": "and I need help"
 		    },
 		    {
-		        "start": "82.848",
-		        "end": "85.451",
-		        "text": "\u266a DESPACITO \u266a"
+		        "start": 52.46,
+		        "end": 54.96,
+		        "text": "I&#39;ve seen this raw strength only once before"
 		    },
 		    {
-		        "start": "94.193",
-		        "end": "96.262",
-		        "text": "\u266a DESPACITO \u266a"
+		        "start": 56.18,
+		        "end": 57.9,
+		        "text": "It didn&#39;t scare me enough then"
 		    },
 		    {
-		        "start": "109.942",
-		        "end": "112.812",
-		        "text": "\u266a QUE LE ENSE\u00d1ES A MI BOCA \u266a"
+		        "start": 60.16,
+		        "end": 61.78,
+		        "text": "It does now"
 		    },
 		    {
-		        "start": "112.845",
-		        "end": "115.414",
-		        "text": "\u266a TUS LUGARES FAVORITOS \u266a"
+		        "start": 67.36,
+		        "end": 68.24,
+		        "text": "Let the past die"
 		    },
 		    {
-		        "start": "115.447",
-		        "end": "117.183",
-		        "text": "\u266a FAVORITO FAVORITO EY EEH \u266a"
+		        "start": 70.72,
+		        "end": 71.72,
+		        "text": "Kill it"
 		    },
 		    {
-		        "start": "117.216",
-		        "end": "118.518",
-		        "text": "\u266a D\u00c9JAME SOBREPASAR \u266a"
+		        "start": 74.56,
+		        "end": 75.44,
+		        "text": "If you have to"
 		    },
 		    {
-		        "start": "118.551",
-		        "end": "120.786",
-		        "text": "\u266a TU ZONAS DE PELIGRO \u266a"
+		        "start": 78.06,
+		        "end": 79.94,
+		        "text": "That&#39;s the only way to become what you are meant to be"
 		    },
 		    {
-		        "start": "120.819",
-		        "end": "123.456",
-		        "text": "\u266a HASTA PROVOCAR TUS GRITOS \u266a"
+		        "start": 94.92,
+		        "end": 96.14,
+		        "text": "We are the spark"
 		    },
 		    {
-		        "start": "123.489",
-		        "end": "126.192",
-		        "text": "\u266a Y QUE OLVIDES TU APELLIDO \u266a"
+		        "start": 96.76,
+		        "end": 98.48,
+		        "text": "that will light the fire"
 		    },
 		    {
-		        "start": "129.795",
-		        "end": "131.197",
-		        "text": "\u266a LLEVO TIEMPO INTENTANDOLO \u266a"
+		        "start": 98.64,
+		        "end": 100.18,
+		        "text": "that will burn the First Order down"
 		    },
 		    {
-		        "start": "171.303",
-		        "end": "172.939",
-		        "text": "\u266a DESPACITO \u266a"
+		        "start": 101.4,
+		        "end": 102.22,
+		        "text": "Come on!"
 		    },
 		    {
-		        "start": "181.647",
-		        "end": "183.583",
-		        "text": "\u266a DESPECITO \u266a"
+		        "start": 105.42,
+		        "end": 107.54,
+		        "text": "This is not going to go"
 		    },
 		    {
-		        "start": "202.968",
-		        "end": "204.57",
-		        "text": "\u266a FAVORITO FAVORITO \u266a"
+		        "start": 109.32,
+		        "end": 110.46,
+		        "text": "the way you think"
 		    },
 		    {
-		        "start": "214.013",
-		        "end": "216.015",
-		        "text": "\u266a DESPACITO \u266a"
+		        "start": 112.58,
+		        "end": 113.3,
+		        "text": "Fulfill"
 		    },
 		    {
-		        "start": "246.478",
-		        "end": "248.915",
-		        "text": "\u266a DES...PA...CI...TO... \u266a"
+		        "start": 115.92,
+		        "end": 116.6,
+		        "text": "your"
 		    },
 		    {
-		        "start": "252.051",
-		        "end": "253.319",
-		        "text": "\u266a PASITO A PASITO \u266a"
+		        "start": 118.62,
+		        "end": 119.62,
+		        "text": "destiny."
 		    },
 		    {
-		        "start": "253.352",
-		        "end": "254.52",
-		        "text": "\u266a SUAVE, SUAVECITO \u266a"
+		        "start": 123.78,
+		        "end": 125.34,
+		        "text": "I need someone"
 		    },
 		    {
-		        "start": "254.553",
-		        "end": "256.022",
-		        "text": "\u266a NOS VAMOS PEGANDO \u266a"
-		    },
-		    {
-		        "start": "256.055",
-		        "end": "257.39",
-		        "text": "\u266a POQUITO A POQUITO \u266a"
-		    },
-		    {
-		        "start": "257.423",
-		        "end": "262.928",
-		        "text": "\u266a (HEY, HEY, HEY, HEY) \u266a"
-		    },
-		    {
-		        "start": "262.961",
-		        "end": "264.297",
-		        "text": "\u266a PASITO A PASITO \u266a"
-		    },
-		    {
-		        "start": "264.33",
-		        "end": "265.498",
-		        "text": "\u266a SUAVE, SUAVECITO \u266a"
-		    },
-		    {
-		        "start": "265.531",
-		        "end": "266.732",
-		        "text": "\u266a NOS VAMOS PEGANDO \u266a"
-		    },
-		    {
-		        "start": "266.765",
-		        "end": "268.334",
-		        "text": "\u266a POQUITO A POQUITO \u266a"
-		    },
-		    {
-		        "start": "268.367",
-		        "end": "273.64",
-		        "text": "\u266a (HEY, HEY, HEY, HEY) \u266a"
+		        "start": 127.56,
+		        "end": 129.96,
+		        "text": "to show me my place in all this"
 		    }
 		]
 	},
@@ -1375,58 +1340,58 @@ var global_videos = [
 		"views":"199",
 		"subtitle":[
 		    {
-		        "start": "0.0",
-		        "end": "12.596",
+		        "start": 0.0,
+		        "end": 12.596,
 		        "text": "Subtitledtrailers.com"
 		    },
 		    {
-		        "start": "32.156",
-		        "end": "33.302",
+		        "start": 32.156,
+		        "end": 33.302,
 		        "text": "Papa?"
 		    },
 		    {
-		        "start": "40.944",
-		        "end": "42.094",
+		        "start": 40.944,
+		        "end": 42.094,
 		        "text": "Come into the light."
 		    },
 		    {
-		        "start": "49.34",
-		        "end": "50.342",
+		        "start": 49.34,
+		        "end": 50.342,
 		        "text": "Show me the girl."
 		    },
 		    {
-		        "start": "54.856",
-		        "end": "56.98",
+		        "start": 54.856,
+		        "end": 56.98,
 		        "text": "The one who&#39;d break the spell!"
 		    },
 		    {
-		        "start": "60.852",
-		        "end": "62.437",
+		        "start": 60.852,
+		        "end": 62.437,
 		        "text": "Belle, of course he can talk!"
 		    },
 		    {
-		        "start": "63.012",
-		        "end": "64.356",
+		        "start": 63.012,
+		        "end": 64.356,
 		        "text": "Hello, please to meet you!"
 		    },
 		    {
-		        "start": "79.103",
-		        "end": "80.705",
+		        "start": 79.103,
+		        "end": 80.705,
 		        "text": "I say we kill the beast!"
 		    },
 		    {
-		        "start": "95.072",
-		        "end": "95.667",
+		        "start": 95.072,
+		        "end": 95.667,
 		        "text": "No!"
 		    },
 		    {
-		        "start": "97.032",
-		        "end": "98.098",
+		        "start": 97.032,
+		        "end": 98.098,
 		        "text": "Don&#39;t be afraid."
 		    },
 		    {
-		        "start": "99.807",
-		        "end": "101.101",
+		        "start": 99.807,
+		        "end": 101.101,
 		        "text": "I&#39;m not afraid."
 		    }
 		]
@@ -1437,200 +1402,200 @@ var global_videos = [
 		"title": "Avengers: Infinity War (2018) Official Trailer 3-1 [HD] ",
 		"duration":"05:023",
 		"views":"200",
-		"subtitle":[
+				"subtitle":[
 		    {
-		        "start": "5.88",
-		        "end": "10.218",
+		        "start": 5.88,
+		        "end": 10.218,
 		        "text": "The entire time I knew him, he only ever had one goal"
 		    },
 		    {
-		        "start": "13.93",
-		        "end": "15.932",
+		        "start": 13.93,
+		        "end": 15.932,
 		        "text": "To wipe out half the universe"
 		    },
 		    {
-		        "start": "17.183",
-		        "end": "21.479",
+		        "start": 17.183,
+		        "end": 21.479,
 		        "text": "If he gets all the Infinity stones he can do it with the snap of his fingers"
 		    },
 		    {
-		        "start": "22.856",
-		        "end": "24.19",
+		        "start": 22.856,
+		        "end": 24.19,
 		        "text": "Just like that"
 		    },
 		    {
-		        "start": "25.66",
-		        "end": "26.25",
+		        "start": 25.66,
+		        "end": 26.25,
 		        "text": "- Tell me his name again"
 		    },
 		    {
-		        "start": "27.68",
-		        "end": "33.68",
+		        "start": 27.68,
+		        "end": 33.68,
 		        "text": "- Thanos"
 		    },
 		    {
-		        "start": "36.411",
-		        "end": "40.81",
+		        "start": 36.411,
+		        "end": 40.81,
 		        "text": "We got one advantage: he&#39;s coming to us"
 		    },
 		    {
-		        "start": "42.709",
-		        "end": "45.962",
+		        "start": 42.709,
+		        "end": 45.962,
 		        "text": "We have what Thanos wants, so that&#39;s what we use"
 		    },
 		    {
-		        "start": "54.12",
-		        "end": "58.57",
+		        "start": 54.12,
+		        "end": 58.57,
 		        "text": "Let&#39;s talk about this plan of yours, I think it&#39;s good except it sucks"
 		    },
 		    {
-		        "start": "58.57",
-		        "end": "61.394",
+		        "start": 58.57,
+		        "end": 61.394,
 		        "text": "So let me do the plan and that way it might be really good"
 		    },
 		    {
-		        "start": "62.228",
-		        "end": "63.62",
+		        "start": 62.228,
+		        "end": 63.62,
 		        "text": "Wow"
 		    },
 		    {
-		        "start": "70.945",
-		        "end": "72.947",
+		        "start": 70.945,
+		        "end": 72.947,
 		        "text": "The end is near"
 		    },
 		    {
-		        "start": "77.994",
-		        "end": "83.917",
+		        "start": 77.994,
+		        "end": 83.917,
 		        "text": "When I&#39;m done, half of humanity will still exist"
 		    },
 		    {
-		        "start": "92.342",
-		        "end": "97.263",
+		        "start": 92.342,
+		        "end": 97.263,
 		        "text": "Perfectly balanced as all things should be"
 		    },
 		    {
-		        "start": "101.809",
-		        "end": "103.811",
+		        "start": 101.809,
+		        "end": 103.811,
 		        "text": "I hope they remember you"
 		    },
 		    {
-		        "start": "122.247",
-		        "end": "124.582",
+		        "start": 122.247,
+		        "end": 124.582,
 		        "text": "I&#39;m Peter by the way"
 		    },
 		    {
-		        "start": "124.582",
-		        "end": "125.416",
+		        "start": 124.582,
+		        "end": 125.416,
 		        "text": "- Dr. Strange."
 		    },
 		    {
-		        "start": "125.416",
-		        "end": "128.586",
+		        "start": 125.416,
+		        "end": 128.586,
 		        "text": "Oh we&#39;re using our made-up names, then I am Spider-Man"
 		    },
 		    {
-		        "start": "141.557",
-		        "end": "142.225",
+		        "start": 141.557,
+		        "end": 142.225,
 		        "text": "So, this is it."
 		    },
 		    {
-		        "start": "143.434",
-		        "end": "144.602",
+		        "start": 143.434,
+		        "end": 144.602,
 		        "text": "It&#39;s all been leading to this."
 		    },
 		    {
-		        "start": "151.693",
-		        "end": "152.235",
+		        "start": 151.693,
+		        "end": 152.235,
 		        "text": "Ready?"
 		    },
 		    {
-		        "start": "153.69",
-		        "end": "159.69",
+		        "start": 153.69,
+		        "end": 159.69,
 		        "text": "Let&#39;s go."
 		    },
 		    {
-		        "start": "173.89",
-		        "end": "174.465",
+		        "start": 173.89,
+		        "end": 174.465,
 		        "text": "There was an idea..."
 		    },
 		    {
-		        "start": "177.635",
-		        "end": "180.513",
+		        "start": 177.635,
+		        "end": 180.513,
 		        "text": "...to bring together a group of remarkable people..."
 		    },
 		    {
-		        "start": "183.57",
-		        "end": "186.19",
+		        "start": 183.57,
+		        "end": 186.19,
 		        "text": "...to see if we could become something more."
 		    },
 		    {
-		        "start": "189.147",
-		        "end": "193.109",
+		        "start": 189.147,
+		        "end": 193.109,
 		        "text": "So when they needed us, we could fight the battles..."
 		    },
 		    {
-		        "start": "196.487",
-		        "end": "197.488",
+		        "start": 196.487,
+		        "end": 197.488,
 		        "text": "...that they never could."
 		    },
 		    {
-		        "start": "215.757",
-		        "end": "218.968",
+		        "start": 215.757,
+		        "end": 218.968,
 		        "text": "In time you&#39;ll know what it&#39;s like to lose."
 		    },
 		    {
-		        "start": "220.553",
-		        "end": "225.308",
+		        "start": 220.553,
+		        "end": 225.308,
 		        "text": "To feel so desperately that you&#39;re right, yet to fail all the same."
 		    },
 		    {
-		        "start": "230.938",
-		        "end": "231.439",
+		        "start": 230.938,
+		        "end": 231.439,
 		        "text": "Dread it."
 		    },
 		    {
-		        "start": "233.983",
-		        "end": "234.692",
+		        "start": 233.983,
+		        "end": 234.692,
 		        "text": "Run from it."
 		    },
 		    {
-		        "start": "236.152",
-		        "end": "237.445",
+		        "start": 236.152,
+		        "end": 237.445,
 		        "text": "Destiny still arrives.(CC4K)"
 		    },
 		    {
-		        "start": "246.454",
-		        "end": "247.747",
+		        "start": 246.454,
+		        "end": 247.747,
 		        "text": "Evacuate the city."
 		    },
 		    {
-		        "start": "249.373",
-		        "end": "250.875",
+		        "start": 249.373,
+		        "end": 250.875,
 		        "text": "Engage all defenses."
 		    },
 		    {
-		        "start": "252.418",
-		        "end": "254.128",
+		        "start": 252.418,
+		        "end": 254.128,
 		        "text": "And get this man a shield."
 		    },
 		    {
-		        "start": "267.225",
-		        "end": "270.19",
+		        "start": 267.225,
+		        "end": 270.19,
 		        "text": "Fun isn&#39;t something one considers when balancing the universe."
 		    },
 		    {
-		        "start": "274.148",
-		        "end": "274.941",
+		        "start": 274.148,
+		        "end": 274.941,
 		        "text": "But this..."
 		    },
 		    {
-		        "start": "276.317",
-		        "end": "278.194",
+		        "start": 276.317,
+		        "end": 278.194,
 		        "text": "Does put a smile on my face."
 		    },
 		    {
-		        "start": "305.471",
-		        "end": "306.514",
+		        "start": 305.471,
+		        "end": 306.514,
 		        "text": "Who the hell are you guys?"
 		    }
 		]

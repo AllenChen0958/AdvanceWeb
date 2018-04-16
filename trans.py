@@ -14,7 +14,7 @@ def main():
         except AttributeError:
             continue
         end = start +duration;
-        b = {"start":str(start/1000), "end":str(end/1000), "text":text}
+        b = {"start":start/1000, "end":end/1000, "text":text}
         output.append(b)
     output =json.dumps(output, sort_keys=False, indent=4, separators=(',', ': '))
     # print(output)

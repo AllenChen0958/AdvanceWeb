@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?><timedtext format="3">
+<body>
+<p t="80" d="1000"> </p>
+<p t="3840" d="1520">When I found you</p>
+<p t="7200" d="1680">I saw raw</p>
+<p t="10780" d="2040">untamed power</p>
+<p t="14460" d="1900">and beyond that</p>
+<p t="19740" d="3060">something truly special</p>
+<p t="28780" d="1000"> </p>
+<p t="32940" d="1160">something</p>
+<p t="36040" d="1900">inside me has always been there</p>
+<p t="41040" d="1300">then I was awake</p>
+<p t="43960" d="1340">and I need help</p>
+<p t="52460" d="2500">I&#39;ve seen this raw strength only once before</p>
+<p t="56180" d="1720">It didn&#39;t scare me enough then</p>
+<p t="60160" d="1620">It does now</p>
+<p t="67360" d="880">Let the past die</p>
+<p t="70720" d="1000">Kill it</p>
+<p t="74560" d="880">If you have to</p>
+<p t="78060" d="1880">That&#39;s the only way to become what you are meant to be</p>
+<p t="94920" d="1220">We are the spark</p>
+<p t="96760" d="1720">that will light the fire</p>
+<p t="98640" d="1540">that will burn the First Order down</p>
+<p t="101400" d="820">Come on!</p>
+<p t="105420" d="2120">This is not going to go</p>
+<p t="109320" d="1140">the way you think</p>
+<p t="112580" d="720">Fulfill</p>
+<p t="115920" d="680">your</p>
+<p t="118620" d="1000">destiny.</p>
+<p t="123780" d="1560">I need someone</p>
+<p t="127560" d="2400">to show me my place in all this</p>
+</body>
+</timedtext>
